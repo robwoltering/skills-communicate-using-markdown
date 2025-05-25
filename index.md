@@ -18,3 +18,8 @@ ef merge(*args, missing_val = None):
     result.append([args[k][i] if i < len(args[k]) else missing_val for k in range(len(args))])
   return outList
 ```
+
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
